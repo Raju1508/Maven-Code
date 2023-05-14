@@ -24,13 +24,6 @@
 		<snapshotRepository>
 			<id>Maven-snapshot</id>
 			<url>http://3.83.121.131:8081/repository/snapshots/</url>
-=======
-			<url>http://44.212.39.255:8081/repository/Package/</url>
-		</repository>
-		<snapshotRepository>
-			<id>Maven-snapshot</id>
-			<url>http://44.212.39.255:8081/repository/Snapshot/</url>
->>>>>>> 633e6f3497504bf4fa6f649b0f8148d51c2cc9d6
-		</snapshotRepository>		
+		</repository>	
   </distributionManagement>
 </project>
