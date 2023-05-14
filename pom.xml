@@ -19,7 +19,6 @@
 
 		<repository>
 			<id>Maven-release</id>
-<<<<<<< HEAD
 			<url>http://3.83.121.131:8081/repository/package/</url>
 		</repository>
 		<snapshotRepository>
